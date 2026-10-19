@@ -462,6 +462,11 @@
         "id": "m26-los-vips",
         "title": "Los VIPS",
         "scoreId": "los-vips"
+      },
+      {
+        "id": "m26-nacido-para-ser-salvaje",
+        "title": "Nacido para ser salvaje",
+        "scoreId": "nacido-para-ser-salvaje"
       }
     ]
   }
