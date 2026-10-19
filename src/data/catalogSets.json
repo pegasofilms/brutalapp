@@ -319,6 +319,11 @@
         "scoreId": "el-vuelo-del-abejorro"
       },
       {
+        "id": "m26-el-vuelo-del-abejorro-tierra-mojada",
+        "title": "El vuelo del abejorro",
+        "scoreId": "el-vuelo-del-abejorro-tierra-mojada"
+      },
+      {
         "id": "m26-trinkera",
         "title": "Trinkera",
         "scoreId": "trinkera"
@@ -452,6 +457,11 @@
         "id": "m26-el-tlacololero",
         "title": "El tlacololero",
         "scoreId": "el-tlacololero"
+      },
+      {
+        "id": "m26-los-vips",
+        "title": "Los VIPS",
+        "scoreId": "los-vips"
       }
     ]
   }

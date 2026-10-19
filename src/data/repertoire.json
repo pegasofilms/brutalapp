@@ -450,6 +450,14 @@
     "listenUrl": "https://www.youtube.com/watch?v=-ClpixWjt5M"
   },
   {
+    "id": "el-vuelo-del-abejorro-tierra-mojada",
+    "title": "El vuelo del abejorro",
+    "composer": "Tierra Mojada",
+    "pdf": "/scores/vuelo-abejorro-v2-tierra-mojada.pdf",
+    "sourceFile": "vuelo-abejorro-v2-tierra-mojada.pdf",
+    "tono": "Do Mayor"
+  },
+  {
     "id": "esos-bajos",
     "title": "Esos bajos",
     "composer": "Marcha",
@@ -763,6 +771,15 @@
     "sourceFile": "los-tiliches.pdf",
     "tono": "Sol menor",
     "listenUrl": "https://www.youtube.com/watch?v=2rJPHVq_e30"
+  },
+  {
+    "id": "los-vips",
+    "title": "Los VIPS",
+    "composer": "La Brutal",
+    "pdf": "/scores/los-vips.pdf",
+    "sourceFile": "los-vips.pdf",
+    "tono": "Do Mayor",
+    "listenUrl": "https://www.youtube.com/watch?v=bGu0R6gwn_c"
   },
   {
     "id": "las-marmotas",
